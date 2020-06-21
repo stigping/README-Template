@@ -12,6 +12,7 @@ Paragraph containing project description
   - [Contributing](#contributing)
   - [Versioning](#versioning)
   - [Authors](#authors)
+  - [License](#license)
 
 ## Getting Started
 
@@ -65,3 +66,9 @@ Read [SEMVER.ORG](https://semver.org/) for more info on this!
 
   - **StigPing** - *Template* -
     [StigPing](https://github.com/StigPing)
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+details
