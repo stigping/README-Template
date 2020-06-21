@@ -11,6 +11,7 @@ Paragraph containing project description
   - [Built With](#built-with)
   - [Contributing](#contributing)
   - [Versioning](#versioning)
+  - [Authors](#authors)
 
 ## Getting Started
 
@@ -59,3 +60,8 @@ MAJOR.MINOR.PATCH (0.0.0)
 - PATCH version when you make backwards compatible bug fixes
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format
 Read [SEMVER.ORG](https://semver.org/) for more info on this!
+
+## Authors
+
+  - **StigPing** - *Template* -
+    [StigPing](https://github.com/StigPing)
