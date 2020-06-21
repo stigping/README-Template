@@ -5,7 +5,8 @@ Paragraph containing project description
 ## Summary
 
   - [Getting Started](#getting-started)
-  - [Link Title 2](#2)
+  - [Prerequisites](#prerequisites)
+  - [Installing](#installing)
 
 ## Getting Started
 
@@ -18,3 +19,17 @@ What things you need to install the software and how to install them
 
     - Example 1
     - Example 2
+
+### Installing
+
+A step by step guide on installing the software
+
+Step 1
+
+    Sample text
+
+Step 2
+
+    Sample text
+
+Sample text
