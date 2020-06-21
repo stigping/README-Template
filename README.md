@@ -7,6 +7,7 @@ Paragraph containing project description
   - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installing](#installing)
+  - [Deployment](#deployment)
 
 ## Getting Started
 
