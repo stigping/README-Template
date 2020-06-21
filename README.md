@@ -61,7 +61,7 @@ Read [SEMVER.ORG](https://semver.org/) for more info on this!
 
 ## Authors
 
-  - **StigPing** *Template*
+  - **StigPing** - *Template* -
   [StigPing](https://github.com/StigPing)
 
 ## License
