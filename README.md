@@ -13,6 +13,7 @@ Paragraph containing project description
   - [Versioning](#versioning)
   - [Authors](#authors)
   - [License](#license)
+  - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -23,21 +24,17 @@ your local machine for development and testing purposes.
 
 What things you need to install the software and how to install them
 
-    - Example 1
-    - Example 2
+  - Example 1
+  - Example 2
 
 ### Installing
 
 A step by step guide on installing the software
 
 Step 1
-
-    Sample text
+Sample text
 
 Step 2
-
-    Sample text
-
 Sample text
 
 ## Deployment
@@ -56,19 +53,24 @@ How you/others can contribute
 
 Good versioning would be like this:
 MAJOR.MINOR.PATCH (0.0.0)
-- MAJOR version when you make incompatible API changes
-- MINOR version when you add functionality in a backwards compatible manner
-- PATCH version when you make backwards compatible bug fixes
+  - MAJOR version when you make incompatible API changes
+  - MINOR version when you add functionality in a backwards compatible manner
+  - PATCH version when you make backwards compatible bug fixes
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format
 Read [SEMVER.ORG](https://semver.org/) for more info on this!
 
 ## Authors
 
-  - **StigPing** - *Template* -
-    [StigPing](https://github.com/StigPing)
+  - **StigPing** *Template*
+  [StigPing](https://github.com/StigPing)
 
 ## License
 
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details
+
+## Acknowledgments
+
+  - Give people credits for their work
+  - etc
