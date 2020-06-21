@@ -9,6 +9,8 @@ Paragraph containing project description
   - [Installing](#installing)
   - [Deployment](#deployment)
   - [Built With](#built-with)
+  - [Contributing](#contributing)
+  - [Versioning](#versioning)
 
 ## Getting Started
 
@@ -43,3 +45,17 @@ How to deploy on a live system
 ## Built With
 
   - Example
+
+## Contributing
+
+How you/others can contribute
+
+## Versioning
+
+Good versioning would be like this:
+MAJOR.MINOR.PATCH (0.0.0)
+- MAJOR version when you make incompatible API changes
+- MINOR version when you add functionality in a backwards compatible manner
+- PATCH version when you make backwards compatible bug fixes
+Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format
+Read [SEMVER.ORG](https://semver.org/) for more info on this!
