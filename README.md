@@ -4,7 +4,7 @@ Paragraph containing project description
 
 ## Summary
 
-  - [Link Title 1](#1)
+  - [Getting Started](#getting-started)
   - [Link Title 2](#2)
 
 ## Getting Started
