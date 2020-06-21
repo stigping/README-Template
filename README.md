@@ -66,7 +66,7 @@ Read [SEMVER.ORG](https://semver.org/) for more info on this!
 
 ## License
 
-This project is licensed under the [Public Domain](LICENSE.md)
+This project is licensed under the [Public Domain](LICENSE.md) -
 The Unlicense - see the [LICENSE.md](LICENSE.md) file for
 details
 
